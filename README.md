@@ -1,4 +1,4 @@
-# 🧮 Matrix Scaling in C++
+#  Matrix Scaling in C++
 
 This repository contains two simple C++ programs demonstrating how to **scale (expand)** a 2D matrix by a chosen factor using integer division on array indices.
 
@@ -6,7 +6,7 @@ It’s a great exercise to understand **nested loops, array indexing, integer di
 
 ---
 
-## 🚀 Versions
+## Versions
 
 ### 1️⃣ Basic Version — `matrix_scale.cpp`
 A simple implementation using fixed-size 2D arrays.
@@ -60,7 +60,7 @@ Scaled matrix (6x6):
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 You can compile and run either file using any C++ compiler:
 
 ```bash
@@ -73,4 +73,5 @@ or the dynamic version:
 g++ matrix_scale_dynamic.cpp -o matrix_scale_dynamic
 ./matrix_scale_dynamic
 
+You can also use C++ online.
 
