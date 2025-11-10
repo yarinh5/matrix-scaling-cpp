@@ -30,7 +30,7 @@ It scales a 2×2 matrix into a 4×4 matrix by duplicating each element based on 
 
 ### 2️⃣ Dynamic Version — `matrix_scale_dynamic.cpp`
 A more flexible version that uses **dynamic memory allocation (`new` / `delete`)**  
-and allows the user to input any size `N` and any scaling factor `k`.
+and allows the user to input any size `n` and any scaling factor `s`.
 
 #### Example Run:
 
