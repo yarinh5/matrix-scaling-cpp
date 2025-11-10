@@ -62,16 +62,5 @@ Scaled matrix (6x6):
 
 ## How to Run
 You can compile and run either file using any C++ compiler:
-
-```bash
-g++ matrix_scale.cpp -o matrix_scale
-./matrix_scale
-
-
-or the dynamic version:
-
-g++ matrix_scale_dynamic.cpp -o matrix_scale_dynamic
-./matrix_scale_dynamic
-
 You can also use C++ online.
 
